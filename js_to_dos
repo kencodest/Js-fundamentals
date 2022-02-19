@@ -1,0 +1,10 @@
+Scrimba projects
+import the base FTML ans CSS
+
+1. Passenger counter
+2. Black Jack game
+
+JSON.parse() - Converts from string to an array or to whatever it was before. E.g `2` becomes 2, which is a number (int in Js), `["hello]` becomes ["hello"], which is an array. //when they talk about parsing a string, that's what they mean.
+
+
+To convert any type to a string again, we use JSON.stringify(#the value)
